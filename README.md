@@ -10,6 +10,7 @@
 - Pandoc
 - GitHub Copilot
 - Asciinema
+- Typst
 
 ## Installation
 
@@ -28,6 +29,8 @@ To use the presented tools, you'll need to install the following extensions:
 - Markdown All in One
 - Markdown PDF
 - WSL *(if you're using WSL)*
+- Typst LSP
+- Typst Preview
 
 ### Pandoc
 
@@ -42,3 +45,8 @@ Copilot is free for students and educators. You can apply for a free license [he
 ### Asciinema
 
 Asciinema is a tool for recording and sharing terminal sessions. You can find the installation instructions [here](https://asciinema.org/docs/installation).
+
+
+### Typst
+
+Typst is a tool for creating interactive tutorials. You can find the installation instructions [here](https://typst.com/docs/installation).
