@@ -1,6 +1,6 @@
 # Plain text based tools in content creation
 
-> Presentation for the VanKhoury Pedagogical Meeting, Oct 12, 2023
+> Presentation for the VanKhoury Pedagogical Meeting, Oct 13, 2023
 > by Ildar Akhmetov
 
 ## Tools discussed
